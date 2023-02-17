@@ -1,8 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Hola</h1>
-    <h1>Hola de nuez</h1>
-    yaaaa weee
+    <h1>Saludo para el chito</h1>
   </div>
 </template>
 
