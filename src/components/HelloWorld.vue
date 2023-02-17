@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>Saludo para el chito</h1>
     <h2>saludo de emergencia</h2>
+    <p>Nuevo parrafo solicitados</p>
   </div>
 </template>
 
